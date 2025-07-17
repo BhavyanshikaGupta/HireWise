@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1746644172 source:c:\users\mukun\onedrive\desktop\coding\dsa college\aps lab 2025\lab project\project gale\src\applicant.cpp
+	"../include/applicant.h"
+	"../include/utils.h"
+	<algorithm>
+	<sstream>
+	<cmath>
+
+1746643643 c:\users\mukun\onedrive\desktop\coding\dsa college\aps lab 2025\lab project\project gale\include\applicant.h
+	<string>
+	<vector>
+	<map>
+
+1746564106 c:\users\mukun\onedrive\desktop\coding\dsa college\aps lab 2025\lab project\project gale\include\utils.h
+	<string>
+	<vector>
+	<iostream>
+	<iomanip>
+	<limits>
+	<sstream>
+	<algorithm>
+	<cmath>
+
+1746644172 source:c:\users\mukun\onedrive\desktop\coding\dsa college\aps lab 2025\lab project\project gale\src\employer.cpp
+	"../include/employer.h"
+	"../include/utils.h"
+	<sstream>
+
+1746643643 c:\users\mukun\onedrive\desktop\coding\dsa college\aps lab 2025\lab project\project gale\include\employer.h
+	<string>
+	<vector>
+
+1746646089 source:c:\users\mukun\onedrive\desktop\coding\dsa college\aps lab 2025\lab project\project gale\src\matching.cpp
+	"../include/matching.h"
+	"../include/utils.h"
+	<fstream>
+	<algorithm>
+	<unordered_map>
+
+1746564106 c:\users\mukun\onedrive\desktop\coding\dsa college\aps lab 2025\lab project\project gale\include\matching.h
+	<vector>
+	<map>
+	<string>
+	<unordered_map>
+	"applicant.h"
+	"employer.h"
+
+1746644172 source:c:\users\mukun\onedrive\desktop\coding\dsa college\aps lab 2025\lab project\project gale\src\menu.cpp
+	"../include/menu.h"
+	"../include/utils.h"
+	<fstream>
+	<algorithm>
+	<unordered_map>
+	<limits>
+	<cstdlib>
+
+1746643643 c:\users\mukun\onedrive\desktop\coding\dsa college\aps lab 2025\lab project\project gale\include\menu.h
+	<vector>
+	<functional>
+	<unordered_map>
+	"applicant.h"
+	"employer.h"
+	"matching.h"
+
+1746644172 source:c:\users\mukun\onedrive\desktop\coding\dsa college\aps lab 2025\lab project\project gale\src\utils.cpp
+	"../include/utils.h"
+	<iostream>
+	<algorithm>
+	<limits>
+	<sstream>
+	<iomanip>
+	<vector>
+	<windows.h>
+	<unistd.h>
+
+1746643643 source:c:\users\mukun\onedrive\desktop\coding\dsa college\aps lab 2025\lab project\project gale\main.cpp
+	"include/menu.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+
